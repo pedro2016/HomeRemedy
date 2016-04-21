@@ -1,4 +1,327 @@
 <resources>
-    <string name="app_name">HomeRemedy</string>
+    <string name="app_name">Malestares Comunes</string>
     <string name="action_settings">Settings</string>
+
+    <!-- DATOS PARA LISTA DE PERSONAS -->
+
+    <!-- PERSONA 1 -->
+    <string name="nombreP1">Dolor de Cabeza</string>
+    <string name="descripcionP1">El término cefalea hace referencia a los dolores y molestias localizadas en cualquier parte de la cabeza</string>
+    <string name="edadP1">Té de hierba de limón:
+El té de hierba de limón posee varias aplicaciones medicinales y una de ellas es que nos ayuda a aliviar el dolor de cabeza. Simplemente prepara una infusión con una cucharadita de este té por taza.
+</string>
+    <string name="profesionP1">Hielo:
+Este remedio casero es muy útil para quitar el dolor de cabeza de forma natural (¡y económico!). Simplemente echa 5 ó 6 cubitos de hielo en una bolsa que se pueda cerrar totalmente (para que no se escape el agua cuando el hielo se derrita) y cúbrela con una tela. Aplícalo sobre la zona que te duela.</string>
+    <string name="estadocivilP1">Infusión de Manzanilla:
+Ya sabemos que la manzanila es una de las plantas medicinales más usadas por sus múltiples propiedades. Una de sus aplicaciones terapéuticas es para eliminar el dolor de cabeza, para ello haremos una infusión con 3 cucharadas de manzanilla seca por 500 ml de agua. Deja reposar 15 minutos, cuela añade una cucharadita de jugo de limón y bebe durante el día.
+</string>
+
+    <!-- PERSONA 2 -->
+    <string name="nombreP2">Dolor de Cuerpo</string>
+    <string name="descripcionP2"> El dolor muscular provocado por cansancio, ejercicio intenso, tensión, gripe o mala postura no se trata de una dolencia grave pero afecta el bienestar y la calidad de vida.</string>
+    <string name="edadP2">Romero:
+Para la inflamación muscular, las hojas de romero pueden ayudar. El romero contiene propiedades antiinflamatorias que pueden aliviar los tejidos musculares y ayudar a disminuir el dolor. Prepara una mezcla de 30 gramos de romero en un frasco de agua hirviendo, cubre y deja reposar durante 30 minutos. Embebe un paño en la mezcla de agua y hojas de romero y aplica en la zona afectada 2 o 3 veces al día.
+</string>
+    <string name="profesionP2">Vinagre de manzana:
+Para el dolor muscular por tensión o cansancio, prepara un baño de inmersión con agua tibia y dos tazas de vinagre de manzana, el vinagre ayudará a la distención de tus músculos.
+</string>
+    <string name="estadocivilP2"> Hielo:
+En caso de dolor muscular intenso, aplica hielo en el área afectada para relajar los músculos y bajar la inflamación. Evita el calor: aunque la aplicación de una compresa caliente pueda darte alivio inicial, el calor dilata los vasos sanguíneos y aumenta el flujo circulatorio a esa zona, lo que a la larga generará más hinchazón y dolor de la zona afectada.
+</string>
+
+
+    <!-- PERSONA 3 -->
+    <string name="nombreP3">Dolor de Muela</string>
+    <string name="descripcionP3">El dolor de muelas es una de las molestias más intensas que podemos experimentar y un síntoma al que debemos prestar atención, pues puede ser señal de que algo importante ocurre en nuestra boca. </string>
+    <string name="edadP3">los clavos de olor:
+        estos contienen una sustancia llamada eugenol que funciona como un excelente sedante. Puedes aplicar directamente sobre la encía de la muela adolorida un clavo de olor durante algunos minutos, o agregar cinco clavos de olor a una porción de enjuague bucal y enjuagar tu boca al menos tres veces al día con esta mezcla que te ayudará a aliviar las molestias del dolor de muela.</string>
+    <string name="profesionP3">Ajo:
+        de seguro que tampoco te molestará este gran remedio casero para aliviar el dolor de muelas naturalmente. Aplica un poco de ajo fresco recién picado en la encía de la muela afectada, debido a sus propiedades antibióticas e antiinflamatorias te ayudará a mejorar notablemente las molestias.</string>
+    <string name="estadocivilP3">El té negro:
+        es también un buen aliado para aliviar el dolor de muelas naturalmente debido a su contenido de ácido tánico, que es un analgésico y desinflamatorio que te ayudará a reducir las molestias en la muela. Aplica directamente una bolsita de té negro que haya sido colocada previamente en agua caliente para que suelte la teína. No la coloques caliente en tu boca, espera a que adquiera la temperatura ambiente y luego aplícala. Puedes hacerlo varias veces al día.</string>
+    <string name="numeroP3">96265582</string>
+    <string name="emailP3">cesar.lopez@ujcv.edu.hn</string>
+    <string name="facebookP3">https://www.facebook.com/profile.php?id=100000554435218</string>
+    <string name="twitterP3">https://twitter.com/Lopez04Cesar</string>
+
+    <!-- PERSONA 4 -->
+    <string name="nombreP4">Dolor de Pecho</string>
+    <string name="descripcionP4">Soy estudiante de la Universidad Jose Cecilio del valle</string>
+    <string name="edadP4">20</string>
+    <string name="profesionP4">Bachillerato tecnico en computación</string>
+    <string name="estadocivilP4">Solteto sin compromiso</string>
+    <string name="numeroP4">88261745</string>
+    <string name="emailP4">heberzp3@gmail.com</string>
+    <string name="facebookP4">https://www.facebook.com/heber.ziliesar</string>
+    <string name="twitterP4">https://twitter.com/Heber1333</string>
+
+    <!-- PERSONA 5 -->
+    <string name="nombreP5">Dolor de Garganta</string>
+    <string name="descripcionP5">Estudiante de Ingenieria en Sistemas en UNITEC</string>
+    <string name="edadP5">21</string>
+    <string name="profesionP5">Estudiante</string>
+    <string name="estadocivilP5">Sin compromiso</string>
+    <string name="numeroP5">96772955</string>
+    <string name="emailP5">joel.mejia@ujcv.edu.hn.com</string>
+    <string name="facebookP5">https://www.facebook.com/joel.suazo.10</string>
+    <string name="twitterP5">https://twitter.com/joel_88106</string>
+
+    <!-- PERSONA 6 -->
+    <string name="nombreP6">Dolor de Oido</string>
+    <string name="descripcionP6">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="edadP6">28</string>
+    <string name="profesionP6">Estudiante</string>
+    <string name="estadocivilP6">Soltero</string>
+    <string name="numeroP6">33385518</string>
+    <string name="emailP6">luis.torres@ujcv.edu.hn</string>
+    <string name="facebookP6">https://www.facebook.com/lrtch</string>
+    <string name="twitterP6">https://twitter.com/lrtch</string>
+
+
+    <!-- PERSONA 7 -->
+    <string name="nombreP7">Ardor en la Vista</string>
+    <string name="descripcionP7">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="edadP7">28</string>
+    <string name="profesionP7">Estudiante</string>
+    <string name="estadocivilP7">Soltero</string>
+
+    <!-- PERSONA 8 -->
+    <string name="nombreP8">Dolor en los Pieces</string>
+    <string name="descripcionP8">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="edadP8">28</string>
+    <string name="profesionP8">Estudiante</string>
+    <string name="estadocivilP8">Soltero</string>
+
+    <!-- PERSONA 9 -->
+    <string name="nombreP9">Dolor en las Manos</string>
+    <string name="descripcionP9">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="edadP9">28</string>
+    <string name="profesionP9">Estudiante</string>
+    <string name="estadocivilP9">Soltero</string>
+
+    <!-- PERSONA 10-->
+    <string name="nombreP10">Fiebre</string>
+    <string name="descripcionP10">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="edadP10">28</string>
+    <string name="profesionP10">Estudiante</string>
+    <string name="estadocivilP10">Soltero</string>
+
+    <!-- PERSONA 11-->
+    <string name="nombreP11">Dolor Estomacal</string>
+    <string name="descripcionP11">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="edadP11">28</string>
+    <string name="profesionP11">Estudiante</string>
+    <string name="estadocivilP11">Soltero</string>
+
+
+    <!-- PERSONA 12-->
+    <string name="nombreP12">Refriado</string>
+    <string name="descripcionP12">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="edadP12">28</string>
+    <string name="profesionP12">Estudiante</string>
+    <string name="estadocivilP12">Soltero</string>
+
+    <!-- PERSONA 13-->
+    <string name="nombreP13">Dolor de Rodilla</string>
+    <string name="descripcionP13">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="edadP13">28</string>
+    <string name="profesionP13">Estudiante</string>
+    <string name="estadocivilP13">Soltero</string>
+
+    <!-- PERSONA 14-->
+    <string name="nombreP14">Dolor de Espalda</string>
+    <string name="descripcionP14">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="edadP14">28</string>
+    <string name="profesionP14">Estudiante</string>
+    <string name="estadocivilP14">Soltero</string>
+
+    <!-- PERSONA 15-->
+    <string name="nombreP15">Dolor en el Vientre</string>
+    <string name="descripcionP15">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="edadP15">28</string>
+    <string name="profesionP15">Estudiante</string>
+    <string name="estadocivilP15">Soltero</string>
+
+    <!-- PERSONA 16-->
+    <string name="nombreP16">Dolor Abdominal</string>
+    <string name="descripcionP16">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="edadP16">28</string>
+    <string name="profesionP16">Estudiante</string>
+    <string name="estadocivilP16">Soltero</string>
+
+    <!-- PERSONA 17-->
+    <string name="nombreP17">Acne</string>
+    <string name="descripcionP17">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="edadP17">28</string>
+    <string name="profesionP17">Estudiante</string>
+    <string name="estadocivilP17">Soltero</string>
+
+    <!-- PERSONA 18-->
+    <string name="nombreP18">Apendicitis</string>
+    <string name="descripcionP18">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="edadP18">28</string>
+    <string name="profesionP18">Estudiante</string>
+    <string name="estadocivilP18">Soltero</string>
+
+    <!-- PERSONA 19-->
+    <string name="nombreP19">Asma</string>
+    <string name="descripcionP19">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="edadP19">28</string>
+    <string name="profesionP19">Estudiante</string>
+    <string name="estadocivilP19">Soltero</string>
+
+
+    <!-- PERSONA 20-->
+    <string name="nombreP20">Colicos Nefriticos</string>
+    <string name="descripcionP20">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="edadP20">28</string>
+    <string name="profesionP20">Estudiante</string>
+    <string name="estadocivilP20">Soltero</string>
+
+    <!-- PERSONA 21-->
+    <string name="nombreP21">Conjuntivitis</string>
+    <string name="descripcionP21">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="edadP21">28</string>
+    <string name="profesionP21">Estudiante</string>
+    <string name="estadocivilP21">Soltero</string>
+
+    <!-- PERSONA 22-->
+    <string name="nombreP22">Diarrea</string>
+    <string name="descripcionP22">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="edadP22">28</string>
+    <string name="profesionP22">Estudiante</string>
+    <string name="estadocivilP22">Soltero</string>
+
+    <!-- PERSONA 23-->
+    <string name="nombreP23">Infeccion Urinaria</string>
+    <string name="descripcionP23">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="edadP23">28</string>
+    <string name="profesionP23">Estudiante</string>
+    <string name="estadocivilP23">Soltero</string>
+
+    <!-- PERSONA 24-->
+    <string name="nombreP24">Migraña</string>
+    <string name="descripcionP24">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="edadP24">28</string>
+    <string name="profesionP24">Estudiante</string>
+    <string name="estadocivilP24">Soltero</string>
+
+    <!-- PERSONA 25-->
+    <string name="nombreP25">Neumonia</string>
+    <string name="descripcionP25">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="edadP25">28</string>
+    <string name="profesionP25">Estudiante</string>
+    <string name="estadocivilP25">Soltero</string>
+
+    <!-- PERSONA 26-->
+    <string name="nombreP26">Varicela</string>
+    <string name="descripcionP26">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="edadP26">28</string>
+    <string name="profesionP26">Estudiante</string>
+    <string name="estadocivilP26">Soltero</string>
+
+    <!-- PERSONA 27-->
+    <string name="nombreP27">Alergias en el Cuerpo</string>
+    <string name="descripcionP27">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="edadP27">28</string>
+    <string name="profesionP27">Estudiante</string>
+    <string name="estadocivilP27">Soltero</string>
+
+    <!-- PERSONA 28-->
+    <string name="nombreP28">Nauceas</string>
+    <string name="descripcionP28">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="edadP28">28</string>
+    <string name="profesionP28">Estudiante</string>
+    <string name="estadocivilP28">Soltero</string>
+
+    <string name="title_activity_detalle_persona">DetallePersona</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
 </resources>
