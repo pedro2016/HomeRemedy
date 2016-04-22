@@ -1,4 +1,3 @@
-
 <resources>
     <string name="app_name">Malestares Comunes</string>
     <string name="action_settings">Settings</string>
@@ -47,10 +46,19 @@ En caso de dolor muscular intenso, aplica hielo en el área afectada para relaja
 
     <!-- PERSONA 4 -->
     <string name="nombreP4">Dolor de Pecho</string>
-    <string name="descripcionP4">Soy estudiante de la Universidad Jose Cecilio del valle</string>
-    <string name="edadP4">20</string>
-    <string name="profesionP4">Bachillerato tecnico en computación</string>
-    <string name="estadocivilP4">Solteto sin compromiso</string>
+    <string name="descripcionP4">El dolor de pecho es una sensación dolorosa o desagradable en el pecho, que puede o no estar asociada con un daño al corazón</string>
+    <string name="edadP4">El ajo:
+        es uno de los remedios caseros más eficaces para el dolor en el centro del pecho,Se puede disminuir el colesterol alto y prevenir la acumulación de placa en las paredes arteriales, lo que a su vez mejora el flujo de sangre rica en oxígeno a su corazón.
+◾Agrega ½ cucharadita de jugo de ajo a una taza de agua caliente y bebe.
+◾Como medida preventiva, come 1 a 2 dientes de ajo crudos con agua cada mañana con el estómago vacío.
+ </string>
+    <string name="profesionP4">El jengibre:
+        es otro remedio casero probado para dolor en el pecho. Gingerol, un compuesto químico en el jengibre, ayuda a reducir los niveles de colesterol. Siendo un antioxidante, también protege a los vasos sanguíneos del daño a partir del colesterol.</string>
+    <string name="estadocivilP4">Pimienta de Cayena:
+        puede proporcionar alivio del dolor en el pecho. Contiene una alta concentración de capsaicina, que tiene propiedades anti-inflamatorias. También funciona como un regulador de la sangre para ayudar a restaurar el flujo sanguíneo al corazón.
+◾Agrega ½ o 1 cucharadita de polvo de pimienta de cayena en un vaso de leche o cualquier jugo de fruta. Bebe y pronto el dolor se habra ido.
+◾También puede tomar cayena como un suplemento después de consultar a su médico.
+</string>
     <string name="numeroP4">88261745</string>
     <string name="emailP4">heberzp3@gmail.com</string>
     <string name="facebookP4">https://www.facebook.com/heber.ziliesar</string>
@@ -58,10 +66,16 @@ En caso de dolor muscular intenso, aplica hielo en el área afectada para relaja
 
     <!-- PERSONA 5 -->
     <string name="nombreP5">Dolor de Garganta</string>
-    <string name="descripcionP5">Estudiante de Ingenieria en Sistemas en UNITEC</string>
-    <string name="edadP5">21</string>
-    <string name="profesionP5">Estudiante</string>
-    <string name="estadocivilP5">Sin compromiso</string>
+    <string name="descripcionP5">Los términos dolor de garganta, faringitis y amigdalitis con frecuencia se usan indistintamente, pero no son la misma cosa. Amigdalitis se refiere a las amígdalas que están inflamadas.</string>
+    <string name="edadP5">Haz gárgaras:
+Un remedio clásico pero realmente útil (e incluso, corroborado por un estudio publicado en 2005 por el American Journal of Preventive Medicine). Hacer gárgaras varias veces al día con agua tibia con sal permite que esta absorba el agua de las células de la membrana mucosa, que se encuentran inflamadas durante el constipado. La cantidad recomendada es la de media cucharada de sal por cada vaso de agua; si el sabor es desagradable, podemos recurrir a la miel, otro alimento beneficioso para la garganta.
+</string>
+    <string name="profesionP5">Toma caramelos:
+Aunque existen muchos caramelos que podemos adquirir en las farmacias y que tienen la misión de aliviar los síntomas del catarro, cualquier pastilla o alimento destinado a ser chupado puede paliar el dolor, especialmente aquellos que contengan ingredientes refrescantes como el eucalipto o la menta. La razón es que los caramelos estimulan la producción de saliva, que contribuye a aliviar el dolor de la garganta al tragarse.
+</string>
+    <string name="estadocivilP5">Toma una cucharada de miel:
+La miel es un excelente antiséptico, es decir, ayuda a combatir las enfermedades infecciosas destruyendo los microbios que las causan. Además, contribuye a eliminar la tos, por lo que tomar una o dos cucharadas lentamente, dejando que la miel repose en la parte posterior de nuestra boca, puede ser una importante defensa contra el dolor de garganta.
+</string>
     <string name="numeroP5">96772955</string>
     <string name="emailP5">joel.mejia@ujcv.edu.hn.com</string>
     <string name="facebookP5">https://www.facebook.com/joel.suazo.10</string>
@@ -69,10 +83,10 @@ En caso de dolor muscular intenso, aplica hielo en el área afectada para relaja
 
     <!-- PERSONA 6 -->
     <string name="nombreP6">Dolor de Oido</string>
-    <string name="descripcionP6">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
-    <string name="edadP6">28</string>
-    <string name="profesionP6">Estudiante</string>
-    <string name="estadocivilP6">Soltero</string>
+    <string name="descripcionP6">Es un dolor agudo, sordo o urente en uno o en ambos oídos. El dolor puede ser temporal o constante. </string>
+    <string name="edadP6">Colocar una compresa fría o paños húmedos fríos en el oído externo durante 20 minutos para reducir el dolor.</string>
+    <string name="profesionP6">Masticar puede ayudar a aliviar el dolor y la presión de una infección del oído. (La goma de mascar puede ser un peligro de ahogamiento para niños pequeños).</string>
+    <string name="estadocivilP6">Descansar en una posición erguida en lugar de acostarse puede reducir la presión en el oído medio.</string>
     <string name="numeroP6">33385518</string>
     <string name="emailP6">luis.torres@ujcv.edu.hn</string>
     <string name="facebookP6">https://www.facebook.com/lrtch</string>
@@ -81,160 +95,254 @@ En caso de dolor muscular intenso, aplica hielo en el área afectada para relaja
 
     <!-- PERSONA 7 -->
     <string name="nombreP7">Ardor en la Vista</string>
-    <string name="descripcionP7">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
-    <string name="edadP7">28</string>
-    <string name="profesionP7">Estudiante</string>
-    <string name="estadocivilP7">Soltero</string>
+    <string name="descripcionP7">La sequedad de los ojos es una afección en la cual los ojos no producen suficientes lágrimas para lubricarlos. Los síntomas son picazón o ardor en los ojos, lagrimeo excesivo, una sensación de que hay algo en el ojo, y problemas para usar lentes de contacto
+ </string>
+    <string name="edadP7">Compresa fría:
+        Una de las primeras medidas que se deben tomar ante una alergia es aplicarse un poco de agua fría; con esto se aliviará momentáneamente la molestia mientras se procede a ponerle más frío.
+Después de lavar el ojo con agua fría, envuelve unos cubitos de hielo en una toalla de algodón limpia y colócala sobre tus párpados cerrados.
+</string>
+    <string name="profesionP7">Rodajas de pepino:
+    Además de ayudar a reducir la inflamación que se forma bajo los ojos, este popular remedio tiene una acción calmante para aliviar irritaciones y alergias, causas principales de ardor y comezón en los ojos.
+        Corta dos rodajas de pepino e introdúcelas en un vaso de agua fría con hielo durante 10 minutos. Cuando ya estén bien frías, aplícalas sobre los párpados cerrados y déjalas actuar 5 minutos.
+</string>
+    <string name="estadocivilP7">Bolsas de té:
+        Por su alto contenido de bioflavonoides, el té ayuda a combatir las infecciones virales y bacterianas que también pueden afectar los ojos y causar conjuntivitis.
+Para utilizarlo solo debes poner una bolsa de té verde o negro húmedo sobre el ojo afectado y dejarlo actuar unos minutos. Si el ojo está muy inflamado, repite este tratamiento 4 veces al día y procura que la bolsa de té esté helada.
+    </string>
 
     <!-- PERSONA 8 -->
-    <string name="nombreP8">Dolor en los Pieces</string>
-    <string name="descripcionP8">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
-    <string name="edadP8">28</string>
-    <string name="profesionP8">Estudiante</string>
-    <string name="estadocivilP8">Soltero</string>
+    <string name="nombreP8">Dolor en los Pieses</string>
+    <string name="descripcionP8">El dolor en la planta del pie o fascitis plantar, se produce más exactamente en la parte baja del talón </string>
+    <string name="edadP8">Lo primero que se debe hacer es quedarse descalzo el mayor tiempo posible, además aplicar hielo por lo menos cuatro veces al día, durante veinte minutos cada vez. Esto ayuda a desinflamar la zona afectada.</string>
+    <string name="profesionP8">En el zapato se debe colocar un soporte que apoye el arco del pie, de este modo se reduce el dolor.</string>
+    <string name="estadocivilP8">Dedicar por lo menos veinte minutos diarios a la práctica de ejercicios de estiramiento.</string>
 
     <!-- PERSONA 9 -->
     <string name="nombreP9">Dolor en las Manos</string>
-    <string name="descripcionP9">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
-    <string name="edadP9">28</string>
-    <string name="profesionP9">Estudiante</string>
-    <string name="estadocivilP9">Soltero</string>
+    <string name="descripcionP9">El dolor en las manos es una realidad muy común en las mujeres: adormecimiento por la noche, hinchazón, entumecimiento, debilidad… En ocasiones puede llegar hasta una pérdida de su funcionalidad. </string>
+    <string name="edadP9">Puré de patatas:
+Se ponen a hervir unas dos patatas con su cáscara, cuando estén blandas se retiran del fuego y se escurren; así calientes se trituran para formar el puré, enseguida se aplica alrededor de la muñeca, envolviéndolo y asegurándolo con un lienzo. Las patatas conservan el calor por un buen rato, lo cual ayuda a activar y aumentar la circulación sanguínea calmando notablemente el dolor.
+</string>
+    <string name="profesionP9">Compresas frías o calientes:
+        Cuando sólo se tiene una pequeña inflamación en la muñeca esta se puede mejorar colocando unas compresas frías, de esta manera se puede reducir esta inflamación. Pero si además de la inflamación existe dolor, se alternan las compresas frías con compresas calientes, de esta manera se reducirá muy efectivamente tanto la inflamación como el dolor.
+</string>
+    <string name="estadocivilP9">Agua tibia:
+Otra forma muy efectiva y simple para reducir el dolor de muñeca, la inflamación y los músculos tensionados es, calentar agua y agregarle unas cuantas gotas de aceite de lavanda, el cual es muy relajante, además se debe tener buen cuidado de que el agua no esté demasiado caliente.
+        Se introduce la mano cubriendo toda la muñeca, se debe dejar un buen rato, o hasta que el agua se enfríe. Este es un muy buen método para relajar y calmar los músculos, tanto de las muñecas como de cualquier otra parte del cuerpo.
+</string>
 
     <!-- PERSONA 10-->
     <string name="nombreP10">Fiebre</string>
-    <string name="descripcionP10">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
-    <string name="edadP10">28</string>
-    <string name="profesionP10">Estudiante</string>
-    <string name="estadocivilP10">Soltero</string>
+    <string name="descripcionP10">Aumento de la temperatura del cuerpo por encima de la normal, que va acompañado por un aumento del ritmo cardíaco y respiratorio, y manifiesta la reacción del organismo frente a alguna enfermedad. </string>
+    <string name="edadP10">Un baño de agua tibia o un baño de esponja:
+        Puede bañarse con agua tibia, no fría ya que el cuerpo reaccionará tratando de calentarse. También puede pasarse una esponja tibia por las zonas calientes.</string>
+    <string name="profesionP10">Bajar la fiebre con cebolla:
+        Rodajee una cebolla y pongala en el suelo. Pise las rodajas con los pies descalzos y quédese ahí por media hora. Para aplicar este tratamiento a los niños pequeños, coloque las rodajas de cebolla en las plantas de los pies y póngale calcetines.</string>
+    <string name="estadocivilP10">Papa para bajar la fiebre:
+        Esta es otra receta que se puede usar cuando los niños tienen fiebre. Corte una papa en rodajas y póngasela en las plantas de los pies. Se pueden amarrar con un pañuelo.</string>
 
     <!-- PERSONA 11-->
     <string name="nombreP11">Dolor Estomacal</string>
-    <string name="descripcionP11">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
-    <string name="edadP11">28</string>
-    <string name="profesionP11">Estudiante</string>
-    <string name="estadocivilP11">Soltero</string>
+    <string name="descripcionP11">El dolor de estómago es una afección que, según los terapeutas que la tratan curanderos y curanderos-hierberos, principalmente, puede derivar de dos tipos de causas: un primer grupo está vinculado a condiciones climáticas adversas, tales como el frío o el calor intensos, la humedad y el "mal cuidado" de la misma </string>
+    <string name="edadP11">Hervir una raíz de jengibre:
+        previamente lavada y cortada en trozos pequeños, en una taza de agua durante 5 minutos. Retirar del fuego, colar y dejar refrescar. Tomar cuando se sienta malestar en el estómago principalmente después de comer.</string>
+    <string name="profesionP11">Hacer una decocción de30 gramos de las flores de matricaria:
+        en 1 litro de agua por 20 minutos. Tomar una taza si se siente dolor de estómago después de haber ingerido una comida abundante.</string>
+    <string name="estadocivilP11">Hacer una decocción con20 gramos anís (Hojas y flores):
+        en 1 litro de agua por 20 minutos. Tomar una taza de esta preparación diaria para tener una buena digestión.</string>
 
 
     <!-- PERSONA 12-->
     <string name="nombreP12">Refriado</string>
-    <string name="descripcionP12">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
-    <string name="edadP12">28</string>
-    <string name="profesionP12">Estudiante</string>
-    <string name="estadocivilP12">Soltero</string>
+    <string name="descripcionP12"> Enfermedad catarral de las vías respiratorias, especialmente de la garganta y de la nariz, de naturaleza vírica, bacteriana o alérgica, que produce un malestar físico general, con síntomas como la mucosidad abundante en la nariz o el dolor de garganta.</string>
+    <string name="edadP12">La miel y el limón:
+        Puedes tomar una cucharadita de miel con el jugo de medio limón o mezclarlos con una infusión caliente. El líquido caliente aliviará síntomas como el dolor de garganta, te hará sentir reconfortado y hará que tu nariz se descongestione, pero además el limón aporta vitamina C y la miel es un antibiótico natural que te ayudará a luchar contra posibles infecciones.
+
+</string>
+    <string name="profesionP12">El vapor:
+        Coloca en una olla agua y algunas plantas de eucalipto, espera que hierva y que suelte su aroma. Apaga el fuego y con mucha precaución acércate a la olla y respira sus vapores, para hacer más efectivo este remedio casero puedes rodear tu cara con una toalla, de este modo el vapor estará más concentrado.
+
+</string>
+    <string name="estadocivilP12">Miel con leche caliente:
+        es también un gran remedio casero para aliviarte. Esta opción solo es recomendable cuando no hay mucosidad o flema, pues la leche suele aumentar su producción, por eso solo recurre a esta receta si estás libre de la flema ¡verás cómo funciona
+
+</string>
 
     <!-- PERSONA 13-->
     <string name="nombreP13">Dolor de Rodilla</string>
-    <string name="descripcionP13">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
-    <string name="edadP13">28</string>
-    <string name="profesionP13">Estudiante</string>
-    <string name="estadocivilP13">Soltero</string>
+    <string name="descripcionP13">La rodilla es la articulación más grande del cuerpo. Una rodilla sana se mueve con facilidad y le permite caminar, girarse y realizar muchas otras actividades sin dolor. Para que la rodilla sea flexible, una compleja red de huesos, cartílago, ligamentos, músculos y tendones deben trabajar. </string>
+    <string name="edadP13">Compresas frías:
+Este tratamiento se asocia con esguinces y desgarros leves de los ligamentos. Para reducir la inflamación usa una compresa fría durante 30 minutos, dos o tres veces al día. También puedes utilizar una bolsa de hielo envuelta en un paño para evitar el contacto directo con la piel. Es muy recomendable durante las primeras 48 horas después de lesionarte.
+</string>
+    <string name="profesionP13">Compresas calientes:
+        La utilización de compresas calientes alivia los dolores y la rigidez asociados a enfermedades como la artritis. Puedes usar una manta eléctrica en una temperatura de baja a media, una bolsa  para microondas o una compresa caliente y colocarla en la zona afectada durante 15 minutos, varias veces al día.
+</string>
+    <string name="estadocivilP13">Frío y caliente:
+        Este tratamiento es sencillamente una combinación de los anteriores donde se alternan paños calientes y fríos durante 15 minutos para reactivar la circulación y aliviar el dolor.
+</string>
 
     <!-- PERSONA 14-->
     <string name="nombreP14">Dolor de Espalda</string>
-    <string name="descripcionP14">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
-    <string name="edadP14">28</string>
-    <string name="profesionP14">Estudiante</string>
-    <string name="estadocivilP14">Soltero</string>
+    <string name="descripcionP14">El dolor de espalda es uno de los problemas médicos más comunes y afecta a ocho de cada 10 personas en algún momento de sus vidas. El dolor de espalda puede variar desde un dolor sordo, constante, hasta un dolor súbito e intenso. El dolor de espalda agudo aparece repentinamente y suele durar algunos días o semanas.</string>
+    <string name="edadP14">Frio y calor:
+    Pon unos cubitos de hielo envueltos en una tolla y aplica en la zona afectada durante unos 20 minutos, después en una toalla mojada con agua caliente, aplícala sobre la misma zona de la espalda durante 20 minutos también. Si en estos 20 minutos se va el calor de la toalla, vuélvela a mojar con agua caliente.</string>
+    <string name="profesionP14">Masaje con alcohol:
+    Cuantas veces al sufrir un dolor de espalda, no nos han dado una serie de masajes para calmar el dolor. Este es uno de los remedios más viejos pero para que este pueda funcionar de manera rápida, se necesita primero limpiar nuestra espalda para que pueda absorber más el alcohol.
+
+Después de esto, se recomienda agregar un poco de alcohol por toda la espalda para empezar a dar masajes de manera circular.
+</string>
+    <string name="estadocivilP14">El aceite de sándalo:
+        es un relajante por naturaleza y si combinamos una serie de masajes con este aceite, podremos obtener una mejoría inmediata. Este tipo de aceites lo utilizan mucho en los SPA, debido a que también pueden provocar una relajación mental y esto hacer que se destensen todos los nervios de la espalda afectados.</string>
 
     <!-- PERSONA 15-->
     <string name="nombreP15">Dolor en el Vientre</string>
-    <string name="descripcionP15">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
-    <string name="edadP15">28</string>
-    <string name="profesionP15">Estudiante</string>
-    <string name="estadocivilP15">Soltero</string>
+    <string name="descripcionP15">El dolor en el bajo vientre, aunque sea un síntoma claro, también puede generar inquietud al no saber exactamente por qué se produce. Para saber exactamente qué nos desvela este dolor hay que tener en cuenta su localización, su intensidad y si va acompañado de otros síntomas</string>
+    <string name="edadP15">Infusiones de manzanilla:
+        La manzanilla es un remedio natural contra los dolores o malestares del estómago debido a sus compuestos florales. Su ingesta en este caso, puede aliviar, en gran medida, los dolores en ovarios.</string>
+    <string name="profesionP15">Infusiones de canela:
+        La canela hervida en agua es un calmante utilizado para este tipo de dolores debido a su capacidad relajante.</string>
+    <string name="estadocivilP15">Calor:
+        Aunque el calor puede provocar un aumento en el flujo menstrual, su aplicación aliviará el dolor. Calentaremos saquitos de hierbas o paños cálidos en la zona del vientre. No excedernos en la temperatura.</string>
 
     <!-- PERSONA 16-->
     <string name="nombreP16">Dolor Abdominal</string>
-    <string name="descripcionP16">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
-    <string name="edadP16">28</string>
-    <string name="profesionP16">Estudiante</string>
-    <string name="estadocivilP16">Soltero</string>
+    <string name="descripcionP16">El dolor abdominal es el dolor que se siente en el área entre el pecho y la ingle. </string>
+    <string name="edadP16">Te de manzanilla:
+    La infusión o té de manzanilla, resulta perfecto para poder calmar el dolor estomacal que tengamos, se debe resaltar que la manzanilla ayuda a relajar nuestro estómago, principalmente la “boca” del estómago. Se recomienda tomar constantemente el té de manzanilla, siempre y cuando tengamos este malestar estomacal.</string>
+    <string name="profesionP16">Caldo de pollo:
+    El caldo de pollo ayuda a relajar el malestar estomacal; no obstante, debemos quitarle la grasa, es algo indispensable. Debemos tomar caldo de pollo durante 3 horas después que tuvimos problemas o malestares estomacales. Este debe agregársele limón, debido a que ayudará a eliminar la grasa y también cuando se ingiera, nos servirá para eliminar las afecciones que tenemos dentro del estómago.</string>
+    <string name="estadocivilP16">Compresa calientes en el abdomen:
+    Cuando tenemos dolor en la zona abdominal, debemos colocar una compresa de agua tibia en la zona donde más duele. Una vez esto, la dejaremos por un lapso de 15 minutos y si el dolor prevalece, es entonces que necesitaremos calentar más el agua en la compresa.</string>
 
     <!-- PERSONA 17-->
     <string name="nombreP17">Acne</string>
-    <string name="descripcionP17">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
-    <string name="edadP17">28</string>
-    <string name="profesionP17">Estudiante</string>
-    <string name="estadocivilP17">Soltero</string>
+    <string name="descripcionP17">Enfermedad de la piel que se caracteriza por la inflamación de las glándulas sebáceas y la aparición de espinillas y granos, en especial en la cara y la espalda. </string>
+    <string name="edadP17">El pepino:
+        es uno de los tratamientos más fáciles y más refrescantes utilizados para el tratamiento del acné y para hidratar la piel. Esto hace que nuestra piel se sienta con un aspecto joven. Machaca el pepino, hasta formar una pasta y aplícalo sobre la zona afectada. Déjalo durante 30 a 45 minutos y luego enjuaga.</string>
+    <string name="profesionP17">El sándalo en polvo:  puede ser usado en la piel para tratar el acné. Para eso, has una pasta con el polvo de sándalo y poquita agua, aplícatelo y déjalo si es posible toda la noche y luego enjuaga con agua fría al día siguiente.</string>
+    <string name="estadocivilP17">El tomate (jitomate):
+        también se puede utilizar para el tratamiento de puntos negros y para abrir los poros de la piel, además que también aclara la piel. Corta un pedazo de tomate y frótalo sobre la piel. Déjalo actuar durante 15 minutos. Enjuaga con agua fría. Esto te ayudara a reducir los poros abiertos y puntos negros. Este tratamiento es excelente para la piel grasa.</string>
 
     <!-- PERSONA 18-->
     <string name="nombreP18">Apendicitis</string>
-    <string name="descripcionP18">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
-    <string name="edadP18">28</string>
-    <string name="profesionP18">Estudiante</string>
-    <string name="estadocivilP18">Soltero</string>
+    <string name="descripcionP18">Inflamación del apéndice que se encuentra al final del intestino grueso. </string>
+    <string name="edadP18">Aceite de ricino:
+El aceite de ricino es un remedio casero eficaz para la apendicitis. Un paquete de aceite de ricino puede ayudar a aliviar la obstrucción y reducir la inflamación, el aceite de ricino tomado por vía oral ayuda a tratar el estreñimiento y mejora los movimientos intestinales.
+</string>
+    <string name="profesionP18">Ajo:
+        El ajo tiene potencial terapéutico anti-inflamatorio que ayuda en el tratamiento de la apendicitis. Ayuda a reducir la inflamación, así como el dolor.
+• Coma de 2 a 3 dientes de ajo crudos en ayunas todos los días. También puede utilizar el ajo en su cocina.
+• Otra opción es tomar cápsulas de ajo, pero sólo después de consultar a un médico.
+</string>
+    <string name="estadocivilP18">El jengibre:
+        Debido a sus propiedades anti-inflamatorias, el jengibre también ayuda a tratar la apendicitis. Se puede reducir el dolor y la inflamación, mientras que también ayuda a aliviar los síntomas comunes de vómitos y náuseas.
+</string>
 
     <!-- PERSONA 19-->
     <string name="nombreP19">Asma</string>
-    <string name="descripcionP19">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
-    <string name="edadP19">28</string>
-    <string name="profesionP19">Estudiante</string>
-    <string name="estadocivilP19">Soltero</string>
+    <string name="descripcionP19">Enfermedad del aparato respiratorio que se caracteriza por una respiración anhelosa y difícil, tos, sensación de ahogo y ruidos sibilantes en el pecho. </string>
+    <string name="edadP19">El jengibre:
+        es uno de los mejores productos naturales para tratar problemas respiratorios, como la bronquitis o la tos, y es que entre sus beneficios destacan sus propiedades antiinflamatorias. Por eso el té de jengibre es una gran alternativa para curar el asma de manera natural.
+
+</string>
+    <string name="profesionP19">La cúrcuma:
+        es una especia con destacadas propiedades antiinflamatorias y expectorantes, lo que la convierte en una gran opción para curar el asma naturalmente. Puedes mezclar una cucharada de cúrcuma con agua tibia y beberla o, para hacer su sabor más agradable, añadir esta especial a una taza de leche tibia con una cucharada de miel. Consumir esta mezcla a diario te ayudará a mejorar los síntomas del asma.
+</string>
+    <string name="estadocivilP19">Los aceites esenciales de eucalipto, de pino, de romero y de mejorana:
+        son también una alternativa genial para curar el asma con remedios caseros. Frota tu pecho con cualquiera de estos aceites, preferiblemente tibios, y realiza un suave masaje en la zona. Esta es una gran alternativa para mejorar tu condición.
+
+</string>
 
 
     <!-- PERSONA 20-->
     <string name="nombreP20">Colicos Nefriticos</string>
-    <string name="descripcionP20">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
-    <string name="edadP20">28</string>
-    <string name="profesionP20">Estudiante</string>
-    <string name="estadocivilP20">Soltero</string>
+    <string name="descripcionP20">El cólico nefrítico es un episodio de dolor lumbar muy intenso, de tipo espasmo, con grandes picos de dolor, acompañado de afectación general, sudoración y náuseas o vómitos. El dolor se refleja en la zona inguinal. La causa más frecuente es la obstrucción del riñón por un cálculo situado en el uréter.</string>
+    <string name="edadP20">Realizar un baño de tina con agua tibia:
+        para que el calor pueda relajar los músculos.</string>
+    <string name="profesionP20">Hervir en medio litro de agua 4 cucharadas de manzanilla durante 5 minuto:
+        Retirar de fuego y dejar refrescar un poco. Luego introducir un paño de tela de algodón en el recipiente que contiene la infusión. Aplicar, aún caliente, a modo de compresas sobre la espalda, encima de los riñones. Cambiar tan pronto se enfríen.</string>
+    <string name="estadocivilP20">Hervir 20 g de estigmas de maíz:
+        y 20 g de raíz de gatuña en 2 litros de agua y dejar hervir hasta que se reduzca a 1 solo litro. Colar y tomar esta preparación a lo largo del día hasta que se sienta mejoría.</string>
 
     <!-- PERSONA 21-->
     <string name="nombreP21">Conjuntivitis</string>
-    <string name="descripcionP21">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
-    <string name="edadP21">28</string>
-    <string name="profesionP21">Estudiante</string>
-    <string name="estadocivilP21">Soltero</string>
+    <string name="descripcionP21">La conjuntivitis es el término utilizado para describir la hinchazón (inflamación) de la conjuntiva, la membrana delgada y transparente que recubre el interior de los párpados y la parte blanca del ojo (conocida como esclerótica). A menudo esta condición se conoce como "ojo rojo". </string>
+    <string name="edadP21">Ingerir una porción de yogur de leche de cabra y aplicarse también un emplasto del yogur todos los días</string>
+    <string name="profesionP21">Sumergir el rostro (y hacer pestañear los ojos) dos veces al día en una palangana con agua a la que se ha echado una cucharada de sal.</string>
+    <string name="estadocivilP21">Aplicar un emplasto tibio de manzanas cocidas, papas crudas o pepinos rallados envuelto en tela.</string>
 
     <!-- PERSONA 22-->
     <string name="nombreP22">Diarrea</string>
-    <string name="descripcionP22">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
-    <string name="edadP22">28</string>
-    <string name="profesionP22">Estudiante</string>
-    <string name="estadocivilP22">Soltero</string>
+    <string name="descripcionP22">Alteración intestinal que se caracteriza por la mayor frecuencia, fluidez y, a menudo, volumen de las deposiciones.</string>
+    <string name="edadP22">Puré de zanahorias para parar la diarrea:
+ Ponga unas zanahorias a hervir hasta que estén suaves. Licúelas e ingiera el puré. Esto le aliviará el intestino y hará más lentas las evacuaciones. </string>
+    <string name="profesionP22">Remedio para la diarrea con agua de cebada:
+ Eche un puñado de cebada en un litro de agua y hierva por cinco minutos. Cuele y beba durante el día. Sal en el ombligo: Llene el ombligo de sal y tápelo con una curita. No sé por qué pero dicen que este remedio sirve para parar la diarrea.</string>
+    <string name="estadocivilP22">Papel periódico:
+ Antes de acostarse, ponga a calentar papel periódico en el horno microondas. Coloque el papel caliente en el vientre y póngase el pantalón encima. Duerma así toda la noche.</string>
 
     <!-- PERSONA 23-->
     <string name="nombreP23">Infeccion Urinaria</string>
-    <string name="descripcionP23">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
-    <string name="edadP23">28</string>
-    <string name="profesionP23">Estudiante</string>
-    <string name="estadocivilP23">Soltero</string>
+    <string name="descripcionP23">Se trata de una afección muy frecuente en las vías urinarias. Se puede producir en la vejiga, en los riñones, en los uréteres y en la uretra</string>
+    <string name="edadP23">Mezcla un puñado de cada una de estas hierbas: malvavisco, llantén, milenrama, ortiga y vara de oro (las partes áreas). Extrae una cucharada, machaca y vierte en una taza con agua hirviendo. Tapa, deja reposar por 15 minutos, cuela y bebe 2 tazas por día.</string>
+    <string name="profesionP23">Hierve 20 gramos de cebada con un litro de agua:
+        Cuando rompa el hervor, echa 20 gramos de enebro. Deja a fuego lento unos minutos más. Reposa tapado 15 minutos, cuela y bebe hasta tres tazas por día.</string>
+    <string name="estadocivilP23">Haz un batido mezclando dos tazas de arándanos frescos:
+        una rebanada de sandía y media taza de cerezas, todo lavado y sin semillas. Bebe de inmediato.</string>
 
     <!-- PERSONA 24-->
     <string name="nombreP24">Migraña</string>
-    <string name="descripcionP24">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
-    <string name="edadP24">28</string>
-    <string name="profesionP24">Estudiante</string>
-    <string name="estadocivilP24">Soltero</string>
+    <string name="descripcionP24">Dolor fuerte de cabeza que afecta, generalmente, a un lado o una parte de ella y a menudo va acompañado de náuseas y vómitos. </string>
+    <string name="edadP24">Jengibre:
+La raíz de jengibre tiene propiedades antiinflamatorias y analgésicas, ideales para combatir la migraña y casi todos sus síntomas. Para aprovechar sus beneficios simplemente prepara un té de jengibre añadiendo un trozo de la raíz en una taza de agua hirviendo, y dejando reposar unos minutos. También es ideal para combatir las cefaleas comunes.
+</string>
+    <string name="profesionP24">Manzanilla:
+        La manzanilla se ha utilizado desde hace mucho para bajar las fiebres, pero también es recomendada para combatir la migraña y los dolores de cabeza comunes. Incluso, beberla regularmente ayuda a prevenir las crisis que suelen provocarnos las migrañas. Prepara una infusión con tres cucharadas de manzanilla seca por ½ litro de agua. Colócala a hervir, después déjala reposar durante 10 minutos, agrégale unas gotas de limón y bébelo.
+</string>
+    <string name="estadocivilP24">La matricaria o Santa María:
+        Esta planta se puede utilizar para prevenir y tratar la migraña de manera efectiva. Para ello se puede consumir en infusión o también en tintura. Si eliges hacer una infusión, agrega una cucharadita de la hierba por un vaso de agua  y bebe hasta 4 vasos al día.
+</string>
 
     <!-- PERSONA 25-->
     <string name="nombreP25">Neumonia</string>
-    <string name="descripcionP25">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
-    <string name="edadP25">28</string>
-    <string name="profesionP25">Estudiante</string>
-    <string name="estadocivilP25">Soltero</string>
+    <string name="descripcionP25">Inflamación de los pulmones, causada por la infección de un virus o una bacteria, que se caracteriza por la presencia de fiebre alta, escalofríos, dolor intenso en el costado afectado del tórax, tos y expectoración. </string>
+    <string name="edadP25">Remedio de ajo:
+        Aunque el sabor y olor del ajo no es del todo agradable, vale la pena hacer el esfuerzo de consumirlo para aprovechar sus beneficios. Este remedio natural combina las increíbles bondades del ajo con ingredientes como la miel y el limón que también fortalecen el sistema respiratorio.
+    </string>
+    <string name="profesionP25">Cebolla:
+    El ajo y la cebolla son ingredientes que tienen propiedades similares en cuanto a su acción antibiótica y antiviral. Uniendo estos dos ingredientes puedes hacer un poderoso remedio para despejar tus vías respiratorias y combatir la neumonía.</string>
+    <string name="estadocivilP25">Cataplasma de ajo:
+La aplicación tópica de ajo también contribuye a despejar las vías respiratorias y acelerar el proceso de recuperación ante una neumonía.
+</string>
 
     <!-- PERSONA 26-->
     <string name="nombreP26">Varicela</string>
-    <string name="descripcionP26">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
-    <string name="edadP26">28</string>
-    <string name="profesionP26">Estudiante</string>
-    <string name="estadocivilP26">Soltero</string>
+    <string name="descripcionP26">Enfermedad infecciosa y contagiosa, causada por un virus, que se caracteriza por la aparición de una erupción de vesículas que invaden la piel de todo el cuerpo, provocando una intensa picazón; las vesículas acaban transformándose en costras que caen al secarse. </string>
+    <string name="edadP26">Avena:
+    Un buen remedio para calmar la picazón es la Avena. Muele dos tazas de avena hasta que quede completamente en polvo. Prepara un baño con agua tibia, vierte y mezcla esta avena molida en ella y luego la persona afectada podrá introducirse durante unos 20 minutos. Sino se dispone de bañera, puede humedecerse una esponja o algodón con esta avena y agua y pasar suavemente sobre las zonas infectadas.</string>
+    <string name="profesionP26">Baño con bicarbonato:
+    Dentro de una tina con agua tibia, debemos agregar media taza de bicarbonato y meternos sobre el agua. Un punto para señalar es que este tipo de baño, nos ayudará a quitar la sensación de comezón. Una vez que terminamos de utilizarlo debemos meternos con agua caliente y jabón.</string>
+    <string name="estadocivilP26">Gargaras de sal:
+    Para las personas que tengan granos o puntos de varicela en la zona de la boca, se recomienda hacer gárgaras con sal, es decir, dentro de un vaso con agua agregar una cucharadita de sal y cada vez que se sienta picazón, es necesario hacer una serie de gárgaras para limpiar esa zona y relajarla.</string>
 
     <!-- PERSONA 27-->
     <string name="nombreP27">Alergias en el Cuerpo</string>
-    <string name="descripcionP27">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
+    <string name="descripcionP27">Las alergias, también llamadas reacciones de hipersensibilidad, son respuestas exageradas del sistema inmunológico (las defensas de nuestro organismo) al entrar en contacto con determinadas sustancias, llamadas alérgenos. </string>
     <string name="edadP27">28</string>
     <string name="profesionP27">Estudiante</string>
     <string name="estadocivilP27">Soltero</string>
 
     <!-- PERSONA 28-->
     <string name="nombreP28">Nauceas</string>
-    <string name="descripcionP28">Actualmente cursando la carrera de Infotecnologia en la UJCV </string>
-    <string name="edadP28">28</string>
-    <string name="profesionP28">Estudiante</string>
-    <string name="estadocivilP28">Soltero</string>
-
+    <string name="descripcionP28">Las náuseas son una sensación que indica la proximidad del vómito y esfuerzos que acompañan a la necesidad de vomitar. Se presentan como una situación de malestar en el estómago, asociada a la sensación de tener necesidad de vomitar (aunque frecuentemente el vómito no se da).</string>
+    <string name="edadP28">El jengibre:
+        es un remedio natural que puede ayudar a quitar las nauseas gracias a que ayuda a disminuir los jugos gástricos y a reducir los bruscos movimientos del tracto gastrointestinal.
+ En una taza de agua hirviendo añade una cucharadita de Jengibre rallado, y déjala enfriar. Una vez se haya enfriado bebe esta infusión poco a poco.</string>
+    <string name="profesionP28">La manzanilla:
+        tiene efectos antiácidos y analgésicos, esto hace que sea un buen remedio contra las náuseas.
+ Prepara una infusión con dos bolsitas de manzanilla o añadiendo una cucharadita de ella en una taza de agua hirviendo. Tómala dos veces al día.</string>
+    <string name="estadocivilP28">Galletas saladas:
+    Para las nauseas matutinas o producidas por el embarazo puede ser un buen remedio el tomar galletas saladas, pero sin exceso sino podría tener un efecto contrario.</string>
     <string name="title_activity_detalle_persona">DetallePersona</string>
     <string name="large_text">
         "Material is the metaphor.\n\n"
